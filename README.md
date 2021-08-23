@@ -2,21 +2,6 @@
 - 👀 I’m interested in Mobile Programming.
 - 🌱 I’m currently learning Kotlin.
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-
-[![radar](https://github.com/xkendx/xkendx/raw/main/radar.gif)](https://github.com/xkendx/xkendx/blob/main/radar.gif)
-
-## [](#hi-there-)Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
-
-## [](#-kenan-is-here-)Kenan is here.
-
-#### [](#-full-stack--react--react-native-developer--seo--aso--it--information-security-specialist--analyst-)Full-Stack & React & React Native Developer | SEO & ASO | IT & Information Security Specialist | Analyst
-
-## [](#knowledge-always-in-my-scope-)Knowledge always in my scope !!!
-
-### [](#knowledge---coffee--lover--)Knowledge <g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🧠</g-emoji> & Coffee <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png">☕</g-emoji> Lover <g-emoji class="g-emoji" alias="hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png">♥</g-emoji> !
-
-### [](#lifetime-learner)Lifetime learner...
 
 ## [](#-skills)<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Skills
 
