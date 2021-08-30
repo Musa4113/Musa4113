@@ -1,4 +1,4 @@
-  **👋 Hi,I'm Musa**
+# 👋 Hi,I'm Musa
 - 👀 I’m interested in Mobile Programming.
 - 🌱 I’m currently learning Kotlin.
 
